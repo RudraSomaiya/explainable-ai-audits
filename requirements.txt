@@ -1,0 +1,12 @@
+# Case studies 2 and 3 (case study 1 has its own uv project)
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+shap
+lime
+dice-ml
+shapash
+imbalanced-learn
+jupyterlab

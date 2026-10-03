@@ -1,7 +1,7 @@
 [project]
 name = "endterm"
 version = "0.1.0"
-description = "Add your description here"
+description = "White-box safety audit of SmolLM-135M with attention analysis, Captum attributions and latent-space projections"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
